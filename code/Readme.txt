@@ -1,7 +1,3 @@
-Thành viên trong nhóm:
-1.	Trần Tấn Hưng - 52000052
-2.	Bùi Quốc Khánh - 52000771
-
 Hướng dẫn run project
 Yêu cầu: Spring tool suit và Xampp
 	
